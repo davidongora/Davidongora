@@ -9,7 +9,8 @@ A Passionate computer science student with a drive for continuous learning and e
 🤝  I'm open to collaborating on Open source projects
 
 socials
-https://twitter.com/DavieOngora https://www.linkedin.com/in/david-ongora-19a388220/ discord davie5981
+Twitter: https://twitter.com/DavieOngora
+Linkedin: https://www.linkedin.com/in/david-ongora-19a388220/ discord davie5981
 
 
 Skills
@@ -23,9 +24,10 @@ Badges
 My GitHub Stats
 
 Davidongora GitHub stats
-
+https://github.com/Davidongora
 
 
 GitHub Commits Graph
-
+https://github.com/Davidongora
 Top Languages
+https://github.com/Davidongora
