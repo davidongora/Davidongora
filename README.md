@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning **Javascript and its frameworks that is react and node **
 
-- 👯 I’m looking to collaborate on **In Hacktoberfest projects**
+- 👯 I’m looking to collaborate on **Hacktoberfest projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Davidongora](https://github.com/Davidongora)
 
 - 📫 How to reach me **ongoradavid5@gmail.com**
+- mobile: +254112027035
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
