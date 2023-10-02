@@ -1,16 +1,31 @@
-### Hi there 👋
+Hi My name is David Ongora
 
-<!--
-**Davidongora/Davidongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Passionate computer science student with a drive for continuous learning and exploration. Armed with a solid foundation in programming and problem-solving.
 
-Here are some ideas to get you started:
+🌍  I'm based in Nairobi
+🖥️  See my portfolio at mine
+✉️  You can contact me at ongoradavid5@gmail.com
+🧠  I'm learning Software engineering at ALX
+🤝  I'm open to collaborating on Open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+socials
+https://twitter.com/DavieOngora https://www.linkedin.com/in/david-ongora-19a388220/ discord davie5981
+
+
+Skills
+JavaScript Python Git Go React CSS3 HTML5 NodeJS Express Fast API Flask Figma 
+
+Socials
+     
+
+Badges
+
+My GitHub Stats
+
+Davidongora GitHub stats
+
+
+
+GitHub Commits Graph
+
+Top Languages
