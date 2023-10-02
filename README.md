@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [symbiont](https://github.com/spotadev/symbiont-extension-jd)
 
-- 🌱 I’m currently learning **Javascript and its fram**
+- 🌱 I’m currently learning **Javascript and its frameworks that is react and node **
 
 - 👯 I’m looking to collaborate on **In Hacktoberfest projects**
 
