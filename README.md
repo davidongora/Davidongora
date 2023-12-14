@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **ongoradavid5@gmail.com**
 - mobile: +254112027035
+- whatsapp : wa.me/0112027035
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
